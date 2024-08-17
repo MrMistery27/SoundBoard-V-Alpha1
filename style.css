@@ -1,0 +1,409 @@
+#button1 {
+    color: green;
+    display: inline-block;
+    font-size: 32px;
+    font-weight: bolder;
+    margin: 16px;
+    margin-left: 30px;
+}
+
+#button2 {
+    color: white;
+    display: inline-block;
+    font-size: 32px;
+    font-weight: bolder;
+    margin: 16px;
+    margin-left: 10px;
+}
+
+#button3 {
+    color: white;
+    display: inline-block;
+    font-size: 32px;
+    font-weight: bolder;
+    margin: 16px;
+    margin-left: 10px;
+}
+
+#button4 {
+    color: white;
+    display: inline-block;
+    font-size: 32px;
+    font-weight: bolder;
+    margin: 16px;
+    margin-left: 10px;
+}
+
+#button5 {
+    color: white;
+    display: inline-block;
+    font-size: 32px;
+    font-weight: bolder;
+    margin: 16px;
+    margin-left: 10px;
+}
+
+#button6 {
+    color: white;
+    display: inline-block;
+    font-size: 32px;
+    font-weight: bolder;
+    margin: 16px;
+    margin-left: 10px;
+}
+
+#button7 {
+    color: white;
+    display: inline-block;
+    font-size: 32px;
+    font-weight: bolder;
+    margin: 16px;
+    margin-left: 10px;
+}
+
+#button8 {
+    color: white;
+    display: inline-block;
+    font-size: 32px;
+    font-weight: bolder;
+    margin: 16px;
+    margin-left: 10px;
+}
+
+#button9 {
+    color: white;
+    display: inline-block;
+    font-size: 32px;
+    font-weight: bolder;
+    margin: 16px;
+    margin-left: 10px;
+}
+
+#button10 {
+    color: white;
+    display: inline-block;
+    font-size: 32px;
+    font-weight: bolder;
+    margin: 16px;
+    margin-left: 10px;
+}
+
+#button11 {
+    color: white;
+    display: inline-block;
+    font-size: 32px;
+    font-weight: bolder;
+    margin: 16px;
+    margin-left: 10px;
+}
+
+#button12 {
+    color: white;
+    display: inline-block;
+    font-size: 32px;
+    font-weight: bolder;
+    margin: 16px;
+    margin-left: 10px;
+}
+
+#button13 {
+    color: white;
+    display: inline-block;
+    font-size: 32px;
+    font-weight: bolder;
+    margin: 16px;
+    margin-left: 10px;
+}
+
+#button14 {
+    color: white;
+    display: inline-block;
+    font-size: 32px;
+    font-weight: bolder;
+    margin: 16px;
+    margin-left: 10px;
+}
+
+#button15 {
+    color: white;
+    display: inline-block;
+    font-size: 32px;
+    font-weight: bolder;
+    margin: 16px;
+    margin-left: 10px;
+}
+
+#button16 {
+    color: white;
+    display: inline-block;
+    font-size: 32px;
+    font-weight: bolder;
+    margin: 16px;
+    margin-left: 10px;
+}
+
+#button17 {
+    color: white;
+    display: inline-block;
+    font-size: 32px;
+    font-weight: bolder;
+    margin: 16px;
+    margin-left: 10px;
+}
+
+#button18 {
+    color: white;
+    display: inline-block;
+    font-size: 32px;
+    font-weight: bolder;
+    margin: 16px;
+    margin-left: 10px;
+}
+
+#button19 {
+    color: white;
+    display: inline-block;
+    font-size: 32px;
+    font-weight: bolder;
+    margin: 16px;
+    margin-left: 10px;
+}
+
+#button20 {
+    color: white;
+    display: inline-block;
+    font-size: 32px;
+    font-weight: bolder;
+    margin: 16px;
+    margin-left: 10px;
+}
+
+#button21 {
+    color: white;
+    display: inline-block;
+    font-size: 32px;
+    font-weight: bolder;
+    margin: 16px;
+    margin-left: 10px;
+}
+
+#button22 {
+    color: white;
+    display: inline-block;
+    font-size: 32px;
+    font-weight: bolder;
+    margin: 16px;
+    margin-left: 10px;
+}
+
+#button23 {
+    color: white;
+    display: inline-block;
+    font-size: 32px;
+    font-weight: bolder;
+    margin: 16px;
+    margin-left: 10px;
+}
+
+#button24 {
+    color: white;
+    display: inline-block;
+    font-size: 32px;
+    font-weight: bolder;
+    margin: 16px;
+    margin-left: 10px;
+}
+
+#button25 {
+    color: white;
+    display: inline-block;
+    font-size: 32px;
+    font-weight: bolder;
+    margin: 16px;
+    margin-left: 10px;
+}
+
+#button26 {
+    color: white;
+    display: inline-block;
+    font-size: 32px;
+    font-weight: bolder;
+    margin: 16px;
+    margin-left: 10px;
+}
+
+#button27 {
+    color: white;
+    display: inline-block;
+    font-size: 32px;
+    font-weight: bolder;
+    margin: 16px;
+    margin-left: 10px;
+}
+
+#button28 {
+    color: white;
+    display: inline-block;
+    font-size: 32px;
+    font-weight: bolder;
+    margin: 16px;
+    margin-left: 10px;
+}
+
+#Test {
+    color: Black;
+    font-size: 20px;
+    margin-left: 10px;
+}
+
+#Neuladen {
+    color: white;
+    display: inline-block;
+    font-size: 20px;
+    margin-left: 10px;
+}
+
+#button1 a:hover {
+    color: red;
+}
+
+#button2 a:hover {
+    color: red;
+}
+
+#button3 a:hover {
+    color: red;
+}
+
+#button4 a:hover {
+    color: red;
+}
+
+#button5 a:hover {
+    color: red;
+}
+
+#button6 a:hover {
+    color: red;
+    
+}
+
+#button7 a:hover {
+    color: red;
+    
+}
+
+#button8 a:hover {
+    color: red;
+    
+}
+
+#button9 a:hover {
+    color: red;
+    
+}
+
+#button10 a:hover {
+    color: red;
+    
+}
+
+#button11 a:hover {
+    color: red;
+    
+}
+
+#button12 a:hover {
+    color: red;
+    
+}
+
+#button13 a:hover {
+    color: red;
+    
+}
+
+#button14 a:hover {
+    color: red;
+    
+}
+
+#button15 a:hover {
+    color: red;
+    
+}
+
+#button16 a:hover {
+    color: red;
+    
+}
+
+#button17 a:hover {
+    color: red;
+    
+}
+
+#button18 a:hover {
+    color: red;
+    
+}
+
+#button19 a:hover {
+    color: red;
+    
+}
+
+#button20 a:hover {
+    color: red;
+    
+}
+
+#button21 a:hover {
+    color: red;
+    
+}
+
+#button22 a:hover {
+    color: red;
+    
+}
+
+#button23 a:hover {
+    color: red;
+    
+}
+
+#button24 a:hover {
+    color: red;
+    
+}
+
+#button25 a:hover {
+    color: red;
+    
+}
+
+#button26 a:hover {
+    color: red;
+    
+}
+
+#button27 a:hover {
+    color: red;
+    
+}
+
+#button28 a:hover {
+    color: red;
+    
+}
+
+#Registrieren {
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+#Anmelden {
+    margin-top: 20px;
+    margin-left: 20px;
+}
